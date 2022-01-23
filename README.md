@@ -1,2 +1,2 @@
-# homework2-2022
-[UMich SI539] - Homework 2
+# hw2-2022
+The starter code for Homework 2 Winter 2022 term
